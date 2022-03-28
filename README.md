@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **various programming languages and fundamentals**
 
 <h3 align="left">Connect with me:</h3>
+ <a href="https://twitter.com/TechMessJess">@TechMessJess on Twitter</a> 
+
 <p align="left">
 </p>
 
